@@ -1,0 +1,20 @@
+jenis_satuan,LIT,NUM,KAR,KPB,AMAN,BINEKA,INKLUSI,klaster,jalur,kewenangan,jenjang,subsistem
+SD Umum,2,2,3,3,3,3,3,2,Formal,Kemendikdasmen,Dasar,Sekolah umum
+SD Kesetaraan,2,2,3,2,3,2,3,1,Nonformal,Kemendikdasmen,Dasar,Kesetaraan
+SMP Umum,3,2,3,2,3,3,3,2,Formal,Kemendikdasmen,Menengah pertama,Sekolah umum
+SMP Kesetaraan,2,2,2,2,2,2,3,1,Nonformal,Kemendikdasmen,Menengah pertama,Kesetaraan
+SMA Umum,3,2,3,3,3,3,3,2,Formal,Kemendikdasmen,Menengah atas,Sekolah umum
+SMA Kesetaraan,1,2,2,2,2,2,3,1,Nonformal,Kemendikdasmen,Menengah atas,Kesetaraan
+SMK Umum,2,2,3,2,3,3,3,2,Formal,Kemendikdasmen,Menengah atas,Sekolah umum
+SDLB,3,3,3,3,3,3,3,3,Formal,Kemendikdasmen,Dasar,SLB
+SMPLB,3,3,3,3,3,3,3,3,Formal,Kemendikdasmen,Menengah pertama,SLB
+SMALB,2,2,3,3,2,2,3,1,Formal,Kemendikdasmen,Menengah atas,SLB
+MI,2,2,2,2,2,2,3,1,Formal,Kemenag,Dasar,Madrasah
+MTs,2,2,2,2,2,2,3,1,Formal,Kemenag,Menengah pertama,Madrasah
+MA,2,2,3,2,3,3,3,2,Formal,Kemenag,Menengah atas,Madrasah
+SD Pendidikan Keagamaan,3,3,3,2,2,3,3,3,Formal,Kemenag,Dasar,Pendidikan keagamaan
+SMP Pendidikan Keagamaan,3,3,3,2,2,3,3,3,Formal,Kemenag,Menengah pertama,Pendidikan keagamaan
+SMA Pendidikan Keagamaan,3,3,3,3,1,3,3,3,Formal,Kemenag,Menengah atas,Pendidikan keagamaan
+PK SD Setara,2,2,2,2,1,2,2,1,Nonformal,Kemenag,Dasar,Keagamaan setara
+PK SMP Setara,2,2,2,2,1,2,3,1,Nonformal,Kemenag,Menengah pertama,Keagamaan setara
+PK SMA Setara,2,2,3,2,1,2,3,1,Nonformal,Kemenag,Menengah atas,Keagamaan setara
